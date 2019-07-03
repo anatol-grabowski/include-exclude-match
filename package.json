@@ -1,0 +1,29 @@
+{
+  "name": "include-exclude-match",
+  "version": "1.0.0",
+  "description": "Verify that a string matches one of include-regexps and doesn't match any of exclude-regexps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grabantot/include-exclude-match.git"
+  },
+  "keywords": [
+    "include",
+    "exclude",
+    "match",
+    "pattern",
+    "string",
+    "regex",
+    "regexp",
+    "regular expression"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grabantot/include-exclude-match/issues"
+  },
+  "homepage": "https://github.com/grabantot/include-exclude-match#readme"
+}
